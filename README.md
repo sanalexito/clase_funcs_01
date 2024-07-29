@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   </h2></h1>
 
 Por lo regular, cuando ejecutas algún código que puede requerir algo de tiempo -digamos simulaciones- a veces es útil tener una barra que te permita monitorear el avance que lleva tu proceso.
-Así, en este repositorio puedes ver varios ejemplos de barras de progreso que puedes agregar a tu código R.
+Así, en este repositorio puedes ver varios ejemplos de barras de progreso que puedes agregar a tu código R para cuando trabajes con ciclos for.
 
 1) Por ejemplo la barra de Windows
 ![image](https://github.com/user-attachments/assets/94699db6-2489-4fbc-8fc3-b47946e3b06e)
